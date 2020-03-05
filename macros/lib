@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="AutoGenHelpToolBoxlib">
+  <macro name="AutoGenSciHelpSet" file="AutoGenSciHelpSet.bin" md5="d63059b48c9e9025c9f4f2b136a3cf8c"/>
+  <macro name="AutoGenXcosHelpSet" file="AutoGenXcosHelpSet.bin" md5="cbcf1dfbf07dcdebc9a376e5ab594dc7"/>
+  <macro name="GenSciHelpXML_action" file="GenSciHelpXML_action.bin" md5="f85f7008765f05a06d6e4489053c8e42"/>
+  <macro name="GenSciHelpXml" file="GenSciHelpXml.bin" md5="29312759ca1f32f89cc150541dcfaa50"/>
+  <macro name="GenXcosHelpXML_action" file="GenXcosHelpXML_action.bin" md5="05c115a3a42d28ff85f87e161b2d6140"/>
+  <macro name="GenXcosHelpXml" file="GenXcosHelpXml.bin" md5="6bfbcdcb45fe1dceaff62791fed34d5f"/>
+  <macro name="SciDesSet" file="SciDesSet.bin" md5="65c6273db5d18f078afc7e8d16011695"/>
+  <macro name="SciParamSet" file="SciParamSet.bin" md5="87c0014ba176e5896e3f3ab851af42c7"/>
+  <macro name="XcosDesSet" file="XcosDesSet.bin" md5="a19a3a435b707f8dcfa538f1b13ae38c"/>
+  <macro name="XcosParamSet" file="XcosParamSet.bin" md5="c3914e666ecd7079c30f3888b55bfd00"/>
+  <macro name="autoGenHelp" file="autoGenHelp.bin" md5="33b2a8ac7cb8abf062b6b21dee317ffa"/>
+</scilablib>

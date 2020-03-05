@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<refentry xml:id="Xcos_Test_Block">
+  <refnamediv>
+    <refname>Xcos_Test_Block</refname>
+    <refpurpose>这是模块的概述</refpurpose>
+  </refnamediv>
+  <refsection>
+    <title>模块显示</title>
+    <para>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata fileref="..\..\images\Example_images.png" align="center" valign="middle"/>
+        </imageobject>
+      </inlinemediaobject>
+    </para>
+  </refsection>
+  <refsection id="Contents_Xcos_Test_Block">
+    <title>内容提要</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          <link linkend="Xcos_Test_Block">Xcos_Test_Block模块</link>
+        </para>
+      </listitem>
+      <listitem>
+        <itemizedlist>
+          <listitem>
+            <para>
+              <xref linkend="Description_Xcos_Test_Block">功能描述</xref>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <xref linkend="Dialogbox_Xcos_Test_Block">输入输出参数说明  </xref>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <xref linkend="Interfacingfunction_Xcos_Test_Block">接口函数</xref>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <xref linkend="Computationalfunction_Xcos_Test_Block">计算函数</xref>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <xref linkend="Example_Xcos_Test_Block">示例</xref>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <xref linkend="Seealso_Xcos_Test_Block">参见</xref>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              <xref linkend="Author_Xcos_Test_Block">作者</xref>
+            </para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+  </refsection>
+  <refsection id="Description_Xcos_Test_Block">
+    <title>功能描述</title>
+    <itemizedlist>
+      <listitem>
+        <para>这是模块的详细描述</para>
+      </listitem>
+    </itemizedlist>
+  </refsection>
+  <refsection id="Dialogbox_Xcos_Test_Block">
+    <title>输入端口</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          <emphasis role="bold">输出参数1/in1</emphasis>
+        </para>
+        <para>1×1      double      输出参数1的详细描述</para>
+      </listitem>
+    </itemizedlist>
+    <title>输出端口</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          <emphasis role="bold">输出参数1/out1</emphasis>
+        </para>
+        <para>2×3      uint8      输出参数1的详细描述</para>
+      </listitem>
+    </itemizedlist>
+    <title>参数设置</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          <emphasis role="bold">面板设置参数1</emphasis>
+        </para>
+        <para>1×1      string      这是面板设置参数1的详细描述</para>
+      </listitem>
+    </itemizedlist>
+  </refsection>
+  <refsection id="Interfacingfunction_Xcos_Test_Block">
+    <title>接口函数</title>
+    <itemizedlist>
+      <listitem>
+        <para>XCOS_Test_Block.sci</para>
+      </listitem>
+    </itemizedlist>
+  </refsection>
+  <refsection id="Computationalfunction_Xcos_Test_Block">
+    <title>计算函数</title>
+    <itemizedlist>
+      <listitem>
+        <para>SROS_Test_Block.sci</para>
+      </listitem>
+    </itemizedlist>
+  </refsection>
+  <refsection id="Example_Xcos_Test_Block">
+    <title>示例</title>
+    <link type="scilab" linkend="Xcos_Test_Block.xcos/demos/Demo.zcos">
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" valign="middle" fileref="..\..\demos\Demo.zcos"/>
+        </imageobject>
+      </inlinemediaobject>
+    </link>
+  </refsection>
+  <refsection id="Seealso_Xcos_Test_Block">
+    <title>参见</title>
+    <simplelist type="inline">
+      <member>
+        <link linkend="xcos">xcos</link>
+      </member>
+    </simplelist>
+  </refsection>
+  <refsection id="Author_Xcos_Test_Block">
+    <title>作者</title>
+    <itemizedlist>
+      <listitem>
+        <para>SiROS研发团队</para>
+      </listitem>
+    </itemizedlist>
+  </refsection>
+</refentry>
